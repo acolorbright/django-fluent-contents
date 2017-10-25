@@ -1,6 +1,12 @@
 Changelog
 =========
 
+Changes in 1.2.2-custom (2017-10-25)
+-----------------------------
+
+* Fixed error preventing deletion of custom OEmbed items
+
+
 Changes in 1.2.1 (2017-08-10)
 -----------------------------
 
