@@ -335,7 +335,7 @@ var cp_data = {};
       total_forms: $("#" + group_prefix + "-TOTAL_FORMS")[0],
 
       // Item fields
-      id_field: $("#" + field_prefix + "-contentitem_ptr"),
+      id_field: $("[id^=" + field_prefix + "-][id$=_ptr]"),
       delete_checkbox: $("#" + field_prefix + "-DELETE"),
       placeholder_id: placeholder_id,  // .val allows <select> for debugging.
       placeholder_slot: placeholder_slot
