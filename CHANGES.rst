@@ -1,6 +1,12 @@
 Changelog
 =========
 
+Changes in 2.0.3-custom (2018-06-04)
+-----------------------------
+
+* Fixed error preventing deletion of custom OEmbed items
+
+
 Changes in 2.0.3 (2018-05-14)
 -----------------------------
 
